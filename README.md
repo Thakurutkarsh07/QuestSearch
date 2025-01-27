@@ -5,15 +5,6 @@ QuestSearch
 gRPC,MongoDB, Expressjs, React, Nodejs
 </p>
 
-<p align="center">
-   <a href="https://github.com/amazingandyyy/mern/blob/master/LICENSE">
-      <img src="https://img.shields.io/badge/License-MIT-green.svg" />
-   </a>
-   <a href="https://circleci.com/gh/amazingandyyy/mern">
-      <img src="https://circleci.com/gh/amazingandyyy/mern.svg?style=svg" />
-   </a>
-</p>
-
 > QuestSearch is an intelligent search platform that enables users to find questions effortlessly using voice search and 
 a powerful backend powered by Node.js, gRPC, and MongoDB. With a sleek React and Tailwind CSS frontend, it delivers a seamless and user-friendly search experience.
 
